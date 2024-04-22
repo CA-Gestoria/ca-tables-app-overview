@@ -9,14 +9,14 @@ This a private android project tailored for C&A to streamline their sales operat
 Private project developed for our client, [C&A - Gestoría](https://github.com/CA-Gestoria). 
 The application is designed to streamline the management of sales data by providing an intuitive interface for creating, modifying, and sharing sales tables.
 
-<center>
+<p align="left">
   <img src="docs/screenshot_01.jpg" width="160" alt="screenshot">
   <img src="docs/screenshot_02.jpg" width="160" alt="screenshot">
   <img src="docs/screenshot_03.jpg" width="160" alt="screenshot">
   <img src="docs/screenshot_04.jpg" width="160" alt="screenshot">
   <img src="docs/screenshot_05.jpg" width="160" alt="screenshot">
-  <img src="docs/screenshot_06.jpg" width="160" alt="screenshoot">
-</center>
+  <img src="docs/screenshot_06.jpg" width="160" alt="screenshot">
+</p>
 
 ## 🛠️ Key Features
 - **Table Management:** Add and remove sales tables with ease.
